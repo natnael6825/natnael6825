@@ -4,7 +4,7 @@
 ✉️ fikrenatnael@gmail.com  
 📱 [Telegram: @Activationkey](https://t.me/Activationkey)  
 📸 [Instagram: Natnael.Fikre](https://www.instagram.com/Natnael.Fikre)  
-🔗 [LinkedIn: Natnael Fikre](https://www.linkedin.com/in/natnael-fikre)
+🔗 [LinkedIn: Natnael Fikre]([https://www.linkedin.com/in/natnael-fikre](https://www.linkedin.com/in/natnael-fikre-59765a202))
 
 ## Summary
 
