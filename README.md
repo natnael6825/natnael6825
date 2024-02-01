@@ -1,16 +1,31 @@
-### Hi there 👋
+# Natnael Fikre
 
-<!--
-**natnael6825/natnael6825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Addis Ababa/Ethiopia 
+✉️ fikrenatnael@gmail.com  
+📱 [Telegram: @Activationkey](https://t.me/Activationkey)  
+📸 [Instagram: Natnael.Fikre](https://www.instagram.com/Natnael.Fikre)  
+🔗 [LinkedIn: Natnael Fikre](https://www.linkedin.com/in/natnael-fikre)
 
-Here are some ideas to get you started:
+## Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate and versatile developer with expertise in a variety of technologies. My journey in the world of coding has led me to explore and master various tools and frameworks. Here's a snapshot of what I love working with:
+
+## Skills
+
+- Web Development
+- React
+- HTML5
+- CSS
+- JavaScript
+- Application Development
+- Flutter
+- Teamwork
+
+## Education
+
+**HilCoE School of Computer Science and Technology**  
+*Computer Science*  
+*02/2025*  
+*Addis Ababa*
+
+
