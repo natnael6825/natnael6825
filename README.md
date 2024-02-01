@@ -1,6 +1,6 @@
 # Natnael Fikre
 
-📍 Addis Ababa/Ethiopia 
+📍 Addis Ababa/Ethiopia <br />
 ✉️ fikrenatnael@gmail.com  
 📱 [Telegram: @Activationkey](https://t.me/Activationkey)  
 📸 [Instagram: Natnael.Fikre](https://www.instagram.com/Natnael.Fikre)  
