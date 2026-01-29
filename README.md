@@ -37,27 +37,6 @@ I am a passionate and versatile developer with strong interest in building moder
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 ![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=natnael6825&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natnael6825&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=natnael6825&theme=dark" />
-</p>
-
----
-
-## Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=natnael6825&theme=github-dark)
 
 ---
 
