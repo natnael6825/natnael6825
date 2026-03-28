@@ -7,6 +7,7 @@
 📱 **Telegram:** https://t.me/Activationkey  
 📸 **Instagram:** https://www.instagram.com/Natnael.Fikre  
 🔗 **LinkedIn:** https://www.linkedin.com/in/natnael-fikre-59765a202/
+
 🔗 **Portfolio:** https://natnael.profilesage.com/
 
 ---
